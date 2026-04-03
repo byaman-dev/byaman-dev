@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aman (@byaman-dev) 👋
 
-<!--
-**byaman-dev/byaman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring AI Security Researcher
+- 🎓 **Current Status:** Class 11 PCM Student
+- 🎯 **Focus:** Python, Cybersecurity Basics, and Machine Learning
+- 🇯🇵 **Language:** Learning Japanese (Targeting JLPT N5 / MEXT Scholarship)
 
-Here are some ideas to get you started:
+### 🚀 My Goals for this Year:
+- [ ] Complete the TryHackMe Pre-Security Path
+- [ ] Build 5 Python Security Tools
+- [ ] Maintain a daily coding streak on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I'm Building:
+- **Languages:** Python (Learning)
+- **Tools:** VS Code, Git, Linux
+- **Security:** Network Fundamentals
