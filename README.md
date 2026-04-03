@@ -14,3 +14,17 @@
 - **Languages:** Python (Learning)
 - **Tools:** VS Code, Git, Linux
 - **Security:** Network Fundamentals
+
+### 🎓 Professional Certifications (In Progress)
+| Provider | Course | Status |
+| :--- | :--- | :--- |
+| **Cisco** | [Python Essentials 1](https://skillsforall.com/course/python-essentials-1) | ![Status](https://img.shields.io/badge/Status-Learning-yellow) |
+| **Cisco** | Python Essentials 2 | ![Status](https://img.shields.io/badge/Status-Planned-lightgrey) |
+
+---
+
+### 🐍 Cisco Python Lab Progress
+*Every time I complete a lab in the Cisco course, I upload my solution here:*
+- [ ] **Module 1:** Data Types, Variables, Basic I/O operations
+- [ ] **Module 2:** Control Flow (If-Else, Loops)
+- [ ] **Module 3:** Lists, Functions, and Tuples
