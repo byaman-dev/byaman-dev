@@ -28,3 +28,9 @@
 - [ ] **Module 1:** Data Types, Variables, Basic I/O operations
 - [ ] **Module 2:** Control Flow (If-Else, Loops)
 - [ ] **Module 3:** Lists, Functions, and Tuples
+
+### 🎯 Long-Term Academic Goals
+- [ ] **Harvard CS50x:** Introduction to Computer Science 
+  - *Goal: Understand low-level memory management and C programming for security.*
+- [ ] **Harvard CS50 AI:** Introduction to AI with Python
+  - *Goal: Learn the algorithms behind Machine Learning.*
