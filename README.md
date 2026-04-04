@@ -34,3 +34,22 @@
   - *Goal: Understand low-level memory management and C programming for security.*
 - [ ] **Harvard CS50 AI:** Introduction to AI with Python
   - *Goal: Learn the algorithms behind Machine Learning.*
+
+### 📚 Active Learning Projects
+
+| Repository | Focus | Current Milestone |
+| :--- | :--- | :--- |
+| [🐍 Learning-python](https://github.com/byaman-dev/Learning-python) | **CodeWithHarry** Masterclass | Chapter 4: Variables |
+| [📡 Cisco-Networking](https://github.com/byaman-dev/Cisco-Networking) | **Cisco NetAcad** Python Essentials | Module 1 Complete ✅ |
+| [🚩 My-CTF-Journey](#) | **TryHackMe** & PicoCTF | Pre-Security Path |
+
+---
+
+### 🐍 CodeWithHarry Progress Details
+*Tracking my progress through the 10-hour Python masterclass:*
+
+- [x] **Ch 1:** Intro & History
+- [x] **Ch 2:** Environment Setup (VS Code & Python)
+- [x] **Ch 3:** Modules, Pip & Comments (`pyttsx3` practice)
+- [ ] **Ch 4:** Variables & Data Types (Current)
+- [ ] **Ch 5:** String Operations
