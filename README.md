@@ -1,4 +1,4 @@
-# Hi, I'm Aman (@byaman-dev) 👋
+# Hi, I'm Aman (@byaman_dev) 👋
 
 ### 🛡️ Aspiring AI Security Researcher
 - 🎓 **Current Status:** Class 11 PCM Student
