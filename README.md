@@ -34,3 +34,4 @@
   - *Goal: Understand low-level memory management and C programming for security.*
 - [ ] **Harvard CS50 AI:** Introduction to AI with Python
   - *Goal: Learn the algorithms behind Machine Learning.*
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byaman-dev&show_icons=true&theme=tokyonight)
