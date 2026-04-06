@@ -26,7 +26,7 @@
 ### 🐍 Cisco Python Lab Progress
 *Every time I complete a lab in the Cisco course, I upload my solution here:*
 - [x] **Module 1:** Data Types, Variables, Basic I/O operations
-- [ ] **Module 2:** Control Flow (If-Else, Loops)
+- [x] **Module 2:** Control Flow (If-Else, Loops)
 - [ ] **Module 3:** Lists, Functions, and Tuples
 
 ### 🎯 Long-Term Academic Goals
@@ -51,6 +51,6 @@
 - [x] **Ch 1:** Intro & History
 - [x] **Ch 2:** Environment Setup (VS Code & Python)
 - [x] **Ch 3:** Modules, Pip & Comments (`pyttsx3` practice)
-- [ ] **Ch 4:** Variables & Data Types (Current)
+- [x] **Ch 4:** Variables & Data Types (Current)
 - [ ] **Ch 5:** String Operations
 
