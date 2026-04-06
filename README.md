@@ -2,6 +2,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 **Class 11 PCM | Aspiring MEXT Scholar (Japan 2027) | JLPT N5 Candidate**
 
 As a student researcher focused on **Artificial Intelligence (AI) and Cyber-Infrastructure**, my objective is to bridge the gap between high-level algorithmic logic and low-level system security. I am currently architecting a three-year roadmap to qualify for undergraduate research in Japan, focusing on **Secure Machine Learning**.
