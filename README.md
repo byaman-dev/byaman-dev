@@ -110,8 +110,17 @@ While I strive for a high-performance, luxurious lifestyle for my family, my "Wh
 
 ---
 
-## 📊 GitHub Analytics
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=byaman-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byaman-dev&layout=compact&theme=radical)
+---
 
+## 📊 Research & Activity Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byaman-dev&show_icons=true&theme=radical&hide_border=true" alt="Aman's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byaman-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 ---
