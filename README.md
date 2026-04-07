@@ -52,7 +52,7 @@ I treat my learning as an engineering project. Below is the real-time status of 
 | :--- | :--- | :--- | :--- |
 | **Ch 01-02** | Intro & Env Setup | ![100%](https://geps.dev/progress/100) | Environment Hardened ✅ |
 | **Ch 03** | Modules & PIP | ![100%](https://geps.dev/progress/100) | Supply Chain Security ✅ |
-| **Ch 04** | Variables & Types | ![75%](https://geps.dev/progress/75) | **In Progress: Memory Logic** |
+| **Ch 04** | Variables & Types | ![100%](https://geps.dev/progress/100) | **In Progress: Memory Logic** |
 | **Ch 05-06** | Strings & Conditions | ![0%](https://geps.dev/progress/0) | Logical Branching |
 | **Ch 07+** | Loops & Functions | ![0%](https://geps.dev/progress/0) | Automation Foundations |
 
