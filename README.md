@@ -109,13 +109,3 @@ Technology is only useful if people understand how to stay safe. If I cannot exp
 While I strive for a high-performance, luxurious lifestyle for my family, my "Why" is rooted in the pain of those who suffer from cybercrime. Purpose is the fuel; success is the vehicle.
 
 ---
-
-## 📊 Research & Activity Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byaman-dev&show_icons=true&theme=radical&cache_seconds=600" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byaman-dev&layout=compact&theme=radical&cache_seconds=600" alt="Top Languages" />
-</p>
-
----
