@@ -17,7 +17,7 @@ I utilize a **Three-Pillar System** to ensure a holistic understanding of modern
 | Pillar | Focus & Authority | Technical Milestone |
 | :--- | :--- | :--- |
 | 🐍 **Software Engineering** | [Learning-Python](https://github.com/byaman-dev/learning-python) | **Ch 04:** Memory Allocation & Data Integrity |
-| 📡 **Infrastructure** | [Cisco-Networking](https://github.com/byaman-dev/Cisco-Networking) | **Module 02:** Logic Gates & Control Flow |
+| 📡 **Infrastructure** | [Cisco-Networking](https://github.com/byaman-dev/Cisco-Python-Essentials) | **Module 02:** Logic Gates & Control Flow |
 | 🚩 **System Auditing** | [My-CTF-Journey](#) | **Pre-Security:** Linux & Network Persistence |
 
 ---
