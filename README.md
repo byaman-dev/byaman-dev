@@ -50,8 +50,8 @@ I believe practical experience is just as important as theory.
 * Docker Containers & Cloud Security Labs
 
 ---
-
-## 📚 Learning Roadmap
+```
+📚 Learning Roadmap
 
 🟢 Foundations          🟡 Practical Skills         🔵 Cloud & Infra          🔴 Long-Term Direction
 ┌──────────────────────┐  ┌───────────────────────┐  ┌───────────────────────┐  ┌─────────────────────────┐
@@ -59,7 +59,7 @@ I believe practical experience is just as important as theory.
 │ • ISC2 CC            │► │ • THM SEC-0 / SEC-1   │► │ • Microsoft SC-900    │► │ • Cloud Security        │
 │ • Networking / Linux │  │ • Python Automation   │  │ • Azure Security Labs │  │ • GRC / SOC / Forensics │
 └──────────────────────┘  └───────────────────────┘  └───────────────────────┘  └─────────────────────────┘
-
+```
 ---
 
 ### 📈 Timeline
