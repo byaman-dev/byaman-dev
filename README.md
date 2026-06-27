@@ -60,6 +60,8 @@ I believe practical experience is just as important as theory.
 │ • Networking / Linux │  │ • Python Automation   │  │ • Azure Security Labs │  │ • GRC / SOC / Forensics │
 └──────────────────────┘  └───────────────────────┘  └───────────────────────┘  └─────────────────────────┘
 
+---
+
 ### 📈 Timeline
 
 #### **2026**
