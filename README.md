@@ -1,111 +1,138 @@
-# 🏛️ Aman (@byaman_dev) | Future AI Security Researcher
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 👋 Hi, I'm Aman (@byaman-dev)
+**Cybersecurity • Cloud • AI • Python • Continuous Learning**
+
+Building secure technologies, documenting my learning journey, and preparing for an international career in technology.
 
 ---
 
-**Class 11 PCM | Aspiring MEXT Scholar (Japan 2027) | JLPT N5 Candidate**
+## 🚀 About Me
+I'm a Class 11 student from India passionate about **Cybersecurity, Cloud Computing, Artificial Intelligence, Python, and Governance, Risk & Compliance (GRC)**. 
 
-As a student researcher focused on **Artificial Intelligence (AI) and Cyber-Infrastructure**, my objective is to bridge the gap between high-level algorithmic logic and low-level system security. I am currently architecting a three-year roadmap to qualify for undergraduate research in Japan, focusing on **Secure Machine Learning**.
+I enjoy building home labs, solving hands-on security challenges, writing technical documentation, and sharing what I learn through GitHub. My long-term goal is to design secure, ethical, and reliable technologies that help protect people, organizations, and critical digital infrastructure.
+
+> **🎯 Learning Philosophy:** Learn 📚 → Build 🔨 → Document 📝 → Share 🌍
 
 ---
 
-## 🛰️ Strategic Learning Framework
-I utilize a **Three-Pillar System** to ensure a holistic understanding of modern technology:
+## 🎯 Current Focus (2026–2027)
+* 🛡️ **Cybersecurity:** Fundamentals & GRC (Governance, Risk & Compliance)
+* ☁️ **Cloud Computing:** Microsoft Azure Ecosystem
+* 🌐 **Infrastructure:** Computer Networking & Linux Administration
+* 💻 **Programming:** Python for Automation & Security Tooling
+* 🤖 **AI:** AI Security & Secure AI Systems
+* 🌍 **Global Growth:** Preparing for an International Technology Career
 
-| Pillar | Focus & Authority | Technical Milestone |
+---
+
+## 🛠 Tech Stack & Platforms
+
+### 💻 Technologies & Concepts
+* **Programming:** Python (Learning)
+* **Operating Systems:** Windows 11, Kali Linux
+* **Networking:** TCP/IP, DNS, HTTP/HTTPS, OSI Model (Learning)
+* **Security Tools:** Nmap, Wireshark, Linux CLI, VirtualBox, Git & GitHub
+* **Learning Platforms:** TryHackMe, Cisco Networking Academy, Microsoft Learn, Coursera
+
+---
+
+## 🏠 Home Lab
+I believe practical experience is just as important as theory.
+
+### 🟢 Current Lab
+* **Host System:** Windows 11 Host
+* **Hypervisor & VMs:** VirtualBox / Kali Linux VM
+* **Hands-on Focus:** Linux Command Line, Nmap, Wireshark Packet Analysis, Networking Practice
+* **Target Paths:** TryHackMe Security Engineer Path (SEC-0 & SEC-1)
+
+### 🔵 Future Expansion
+* Windows Server & Active Directory
+* Azure Cloud Environment
+* Docker Containers & Cloud Security Labs
+
+---
+
+## 📚 Learning Roadmap
+
+🟢 Foundations          🟡 Practical Skills         🔵 Cloud & Infra          🔴 Long-Term Direction
+┌──────────────────────┐  ┌───────────────────────┐  ┌───────────────────────┐  ┌─────────────────────────┐
+│ • Cisco Intro to Cy  │  │ • Google CyCert       │  │ • Azure AZ-900        │  │ • AI Security           │
+│ • ISC2 CC            │► │ • THM SEC-0 / SEC-1   │► │ • Microsoft SC-900    │► │ • Cloud Security        │
+│ • Networking / Linux │  │ • Python Automation   │  │ • Azure Security Labs │  │ • GRC / SOC / Forensics │
+└──────────────────────┘  └───────────────────────┘  └───────────────────────┘  └─────────────────────────┘
+
+### 📈 Timeline
+
+#### **2026**
+* Complete TryHackMe Security Engineer Path (SEC-0 & SEC-1)
+* Complete Cisco Introduction to Cybersecurity
+* Earn ISC2 Certified in Cybersecurity (CC)
+* Strengthen Python & Networking Fundamentals
+* Build and document my cybersecurity home lab
+
+#### **2027**
+* Complete Google Cybersecurity Professional Certificate
+* Earn Microsoft Azure Fundamentals (AZ-900)
+* Build standalone Security Projects & publish Technical Documentation
+* Start contributing to Open-Source projects
+
+#### **Future Horizons**
+* Deep-dive into AI Security & Cloud Security Engineering
+* Launch an International Technology Career
+* Commitment to Lifelong Learning
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 [Cybersecurity Home Lab](./)
+Documenting practical cybersecurity learning through:
+* Windows Security & Kali Linux Administration
+* Virtual Machine deployment and network isolation
+* Networking fundamentals, Wireshark Packet Analysis, and Nmap network scanning
+
+### 🧠 [TryHackMe Journey](./)
+Hands-on learning through the Security Engineer Path covering:
+* Linux & Windows security fundamentals
+* Enumeration, Web Security, and Privilege Escalation
+
+### 🐍 [Python Projects](./)
+Using Python for automation, security scripting, networking utilities, and problem-solving.
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider | Status |
 | :--- | :--- | :--- |
-| 🐍 **Software Engineering** | [Learning-Python](https://github.com/byaman-dev/learning-python) | **Ch 04:** Memory Allocation & Data Integrity |
-| 📡 **Infrastructure** | [Cisco-Networking](https://github.com/byaman-dev/Cisco-Python-Essentials) | **Module 02:** Logic Gates & Control Flow |
-| 🚩 **System Auditing** | [My-CTF-Journey](#) | **Pre-Security:** Linux & Network Persistence |
+| **Cisco Introduction to Cybersecurity** | Cisco Networking Academy | 🟡 In Progress |
+| **TryHackMe Security Engineer Path (SEC-0 & SEC-1)** | TryHackMe | 🔄 Ongoing |
+| **ISC2 Certified in Cybersecurity (CC)** | ISC2 | 📝 Registered |
+| **Google Cybersecurity Professional Certificate** | Coursera | ⏳ Planned |
+| **Microsoft Azure Fundamentals (AZ-900)** | Microsoft | ⏳ Planned |
 
 ---
 
-## 🎯 The 2027 MEXT Roadmap
-My academic trajectory is strictly aligned with the requirements for the **Ministry of Education, Culture, Sports, Science and Technology (MEXT)** scholarship:
+## 🌍 Beyond Technology
+Outside technology, I enjoy understanding how history, language, and cultures shape our world:
+* 🎹 Piano & Music
+* 📖 History & Ancient Civilizations
+* 🌏 World Cultures & Travel
+* 🇯🇵 Learning Japanese
+* 🇩🇪 Learning German
 
-### 🟢 Phase 1: Technical Foundations (2024-2025)
-- [x] **Environment Hardening:** Configuring professional VS Code & Linux environments.
-- [x] **Dependency Management:** Mastering PIP and Module supply chain security.
-- [ ] **Mathematics for CS:** Advanced Calculus and Linear Algebra (Core for AI).
-
-### 🟡 Phase 2: Implementation (2025-2026)
-- [ ] **Human-Computer Interaction:** Developing `Jarv-AI` using Speech Synthesis & NLP.
-- [ ] **Network Automation:** Applying Cisco Python Essentials to real-world traffic analysis.
-- [ ] **Japanese Fluency:** Completion of JLPT N5/N4 for cultural integration in Tokyo/Osaka.
-
-### 🔴 Phase 3: Research Readiness (2026-2027)
-- [ ] **Low-Level Mastery:** CS50x (C/C++) to understand memory safety and buffer overflows.
-- [ ] **AI Ethics:** CS50 AI to study the security implications of automated decision-making.
+*I believe curiosity beyond technology helps build better, more well-rounded engineers.*
 
 ---
 
-## 🎓 Professional Development & Research Trackers
-
-I treat my learning as an engineering project. Below is the real-time status of my core certifications and technical deep-dives.
-
-### 🐍 The Python Masterclass (CodeWithHarry)
-*Focus: Mastering Syntax, Memory Management, and Logic Architecture.*
-
-| Chapter | Topic | Status | Milestone |
-| :--- | :--- | :--- | :--- |
-| **Ch 01-02** | Intro & Env Setup | ![100%](https://geps.dev/progress/100) | Environment Hardened ✅ |
-| **Ch 03** | Modules & PIP | ![100%](https://geps.dev/progress/100) | Supply Chain Security ✅ |
-| **Ch 04** | Variables & Types | ![100%](https://geps.dev/progress/100) | **In Progress: Memory Logic** |
-| **Ch 05-06** | Strings & Conditions | ![50%](https://geps.dev/progress/50) | Logical Branching |
-| **Ch 07+** | Loops & Functions | ![0%](https://geps.dev/progress/0) | Automation Foundations |
+## 🌎 Languages
+* **Hindi:** Native (🇮🇳)
+* **English:** Fluent (🇬🇧)
+* **Japanese:** Beginner / Learning (🇯🇵)
+* **German:** Beginner / Learning (🇩🇪)
 
 ---
 
-### 📡 Cisco Networking Academy (NetAcad)
-*Focus: Infrastructure, Packet Analysis, and Network Security.*
+### 🤝 Connect With Me
+* **GitHub:** [@byaman-dev](https://github.com/byaman-dev)
 
-| Course | Curriculum Focus | Status |
-| :--- | :--- | :--- |
-| **Python Essentials 1** | Data Ops & Control Flow | ![Learning](https://img.shields.io/badge/Status-70%25-yellow) |
-| **Python Essentials 2** | OOP & Exception Handling | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) |
-| **Networking Basics** | OSI Model & IP Addressing | ![Planned](https://img.shields.io/badge/Status-Upcoming-blue) |
-
----
-
-### 🧠 Harvard CS50 Research Path
-*Focus: Low-level Computer Science and AI Ethics.*
-
-- [ ] **CS50x (Computer Science):** Aiming for a deep understanding of C and Memory Safety.
-- [ ] **CS50 AI (Artificial Intelligence):** Researching the security of neural networks.
-
----
-
-## 🌸 The Ikigai Framework (My 'Reason for Being')
-
-I align my career and personal growth with the **Ikigai** philosophy—finding the intersection of what I love, what I am good at, what the world needs, and what I can be rewarded for.
-
-> **My Ikigai:** "To architect a safer digital future by shielding families and society from evolving cyber threats through AI-driven security—leveraging my passion for code and my commitment to human safety."
-
-| Quadrant | Focus Area |
-| :--- | :--- |
-| **What I Love** | The logic of Python, the challenge of Cybersecurity, and the creativity of the Flute. |
-| **What I am Good at** | Problem-solving under pressure, explaining complex tech simply, and empathetic leadership. |
-| **What the World Needs** | Protection against AI-powered cybercrime, digital literacy in India, and ethical AI systems. |
-| **What I can be Paid for** | AI Security Engineering, Cybersecurity Consulting, and Tech Content Creation. |
-
----
-
-## ⚖️ Core Philosophy & Principles
-
-My work is guided by a specific set of internal values that define my approach to technology and life:
-
-### 1. 🛡️ Security as a Human Right
-Security is not a luxury for the elite; it is a fundamental necessity for every family. I build systems to protect the vulnerable, not just the powerful.
-
-### 2. 🌊 Calmness in Complexity
-Like the music of a flute, code should be elegant. In the heat of a cyber-attack or a system failure, I prioritize a calm mind to find the most effective solution.
-
-### 3. 🗣️ The "Explain-to-Empower" Rule
-Technology is only useful if people understand how to stay safe. If I cannot explain a security threat to a non-tech person, I haven't mastered the subject yet.
-
-### 4. 🔥 Mission over Money
-While I strive for a high-performance, luxurious lifestyle for my family, my "Why" is rooted in the pain of those who suffer from cybercrime. Purpose is the fuel; success is the vehicle.
-
----
+*"Continuous improvement is more valuable than chasing perfection."*
